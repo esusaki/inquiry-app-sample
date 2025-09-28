@@ -1,0 +1,200 @@
+[2025-09-28 16:13:38,022] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 16:24:35,611] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 16:30:23,984] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 16:31:46,775] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 16:33:02,642] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 16:34:59,800] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 16:35:26,981] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 16:36:46,840] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 18:26:58,625] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 18:27:18,734] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 18:27:18,809] [INFO] [__main__:startup_event] Cleaned up uploads directory.
+[2025-09-28 18:27:21,170] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 18:27:28,492] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-09-28 18:27:28,494] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-09-28 18:27:35,387] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 18:27:36,576] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 18:28:32,898] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 18:40:06,196] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 18:40:06,268] [INFO] [__main__:lifespan] Application startup...
+[2025-09-28 18:40:06,268] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-09-28 18:40:10,856] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 18:40:16,744] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-09-28 18:40:16,746] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-09-28 18:40:16,746] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-09-28 18:40:16,760] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-09-28 18:40:16,760] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-28 18:40:16,760] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-09-28 18:40:17,425] [ERROR] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:error] Failed to load or cache data: 400: 列 "問い合わせ内容" がファイルに見つかりません。
+[2025-09-28 18:40:22,371] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 18:42:42,093] [INFO] [__main__:lifespan] Application shutdown...
+[2025-09-28 18:42:47,597] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 18:42:47,702] [INFO] [__main__:lifespan] Application startup...
+[2025-09-28 18:42:47,704] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-09-28 18:43:02,003] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 18:43:08,731] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-09-28 18:43:08,733] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-09-28 18:43:08,734] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-09-28 18:43:08,747] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-09-28 18:43:08,748] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-28 18:43:08,749] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-09-28 18:43:09,299] [ERROR] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:error] Failed to load or cache data: 400: 列 "問い合わせ内容" がファイルに見つかりません。
+[2025-09-28 19:10:07,180] [INFO] [__main__:lifespan] Application shutdown...
+[2025-09-28 19:10:12,920] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 19:10:12,994] [INFO] [__main__:lifespan] Application startup...
+[2025-09-28 19:10:13,016] [INFO] [__main__:load_config] Successfully loaded config from config.json
+[2025-09-28 19:10:13,017] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-09-28 19:10:18,367] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 19:10:25,102] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-09-28 19:10:25,104] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-09-28 19:10:25,105] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-09-28 19:10:25,112] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-09-28 19:10:25,113] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-28 19:10:25,113] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-09-28 19:10:25,896] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Data loaded and cached successfully.
+[2025-09-28 19:10:25,897] [ERROR] [__main__:get_functional_areas] [get_functional_areas:error] '機能分類' column not found in the cached dataframe.
+[2025-09-28 19:15:39,429] [INFO] [__main__:lifespan] Application shutdown...
+[2025-09-28 19:15:44,583] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 19:15:44,649] [INFO] [__main__:lifespan] Application startup...
+[2025-09-28 19:15:44,649] [INFO] [__main__:load_config] Successfully loaded config from config.json
+[2025-09-28 19:15:44,649] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-09-28 19:15:48,739] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 19:15:59,689] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-09-28 19:15:59,689] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-09-28 19:15:59,696] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-09-28 19:15:59,696] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-09-28 19:15:59,704] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-28 19:15:59,704] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-09-28 19:16:00,345] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Data loaded and cached successfully.
+[2025-09-28 19:16:00,345] [INFO] [__main__:get_functional_areas] [get_functional_areas:success] Found functional areas: ['顧客情報画面', '在庫管理画面', '購買管理画面', '売上分析画面', 'ログイン画面']
+[2025-09-28 19:16:08,907] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 19:18:16,564] [INFO] [__main__:lifespan] Application shutdown...
+[2025-09-28 19:18:22,692] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-28 19:18:22,774] [INFO] [__main__:lifespan] Application startup...
+[2025-09-28 19:18:22,774] [INFO] [__main__:load_config] Successfully loaded config from config.json
+[2025-09-28 19:18:22,774] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-09-28 19:18:28,908] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 19:18:34,052] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-09-28 19:18:34,052] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-09-28 19:18:34,052] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-09-28 19:18:34,064] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-09-28 19:18:34,064] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-28 19:18:34,064] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-09-28 19:18:34,834] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Data loaded and cached successfully.
+[2025-09-28 19:18:34,834] [INFO] [__main__:get_functional_areas] [get_functional_areas:success] Found functional areas: ['顧客情報画面', '在庫管理画面', '購買管理画面', '売上分析画面', 'ログイン画面']
+[2025-09-28 19:18:40,801] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-28 19:22:47,648] [INFO] [__main__:lifespan] Application shutdown...
+[2025-09-29 07:07:14,646] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-29 07:07:15,374] [INFO] [__main__:lifespan] Application startup...
+[2025-09-29 07:07:15,376] [INFO] [__main__:load_config] Successfully loaded config from config.json
+[2025-09-29 07:07:15,378] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-09-29 07:07:36,652] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-29 07:07:45,541] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-09-29 07:07:45,544] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-09-29 07:07:45,544] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-09-29 07:07:45,551] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-09-29 07:07:45,553] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 07:07:45,554] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-09-29 07:07:48,716] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Data loaded and cached successfully.
+[2025-09-29 07:07:48,728] [INFO] [__main__:get_functional_areas] [get_functional_areas:success] Found functional areas: ['顧客情報画面', '在庫管理画面', '購買管理画面', '売上分析画面', 'ログイン画面']
+[2025-09-29 07:07:51,790] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-29 07:14:51,672] [INFO] [__main__:lifespan] Application shutdown...
+[2025-09-29 07:14:57,098] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-29 07:14:57,182] [INFO] [__main__:lifespan] Application startup...
+[2025-09-29 07:14:57,183] [INFO] [__main__:load_config] Successfully loaded config from config.json
+[2025-09-29 07:14:57,185] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-09-29 07:15:05,002] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-29 07:15:16,423] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-29 07:17:30,604] [INFO] [__main__:lifespan] Application shutdown...
+[2025-09-29 07:17:42,427] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-29 07:17:42,505] [INFO] [__main__:lifespan] Application startup...
+[2025-09-29 07:17:42,506] [INFO] [__main__:load_config] Successfully loaded config from config.json
+[2025-09-29 07:17:42,506] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-09-29 07:17:44,626] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-29 07:17:46,464] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-29 07:17:52,552] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-09-29 07:17:52,554] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-09-29 07:17:52,554] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-09-29 07:17:52,565] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-09-29 07:17:52,567] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 07:17:52,567] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-09-29 07:17:53,282] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Data loaded and cached successfully.
+[2025-09-29 07:17:53,283] [INFO] [__main__:get_functional_areas] [get_functional_areas:success] Found functional areas: ['顧客情報画面', '在庫管理画面', '購買管理画面', '売上分析画面', 'ログイン画面']
+[2025-09-29 07:18:01,268] [INFO] [__main__:search_inquiries] [search_inquiries:start] Searching for 'あいうえお' in '在庫管理画面'
+[2025-09-29 07:18:01,269] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 07:18:01,270] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Cache is up to date.
+[2025-09-29 07:18:01,319] [INFO] [__main__:search_inquiries] [search_inquiries:success] Found 14 results.
+[2025-09-29 07:18:49,515] [INFO] [__main__:lifespan] Application shutdown...
+[2025-09-29 07:56:35,158] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-29 07:56:36,064] [INFO] [__main__:lifespan] Application startup...
+[2025-09-29 07:56:36,065] [INFO] [__main__:load_config] Successfully loaded config from config.json
+[2025-09-29 07:56:36,067] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-09-29 07:56:36,204] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-29 07:56:43,632] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-09-29 07:56:43,634] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-09-29 07:56:43,634] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-09-29 07:56:43,644] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-09-29 07:56:43,644] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 07:56:43,645] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-09-29 07:56:47,600] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Data loaded and cached successfully.
+[2025-09-29 07:56:47,602] [INFO] [__main__:get_functional_areas] [get_functional_areas:success] Found functional areas: ['顧客情報画面', '在庫管理画面', '購買管理画面', '売上分析画面', 'ログイン画面']
+[2025-09-29 07:56:58,186] [INFO] [__main__:search_inquiries] [search_inquiries:start] Searching for '返品' in '在庫管理画面'
+[2025-09-29 07:56:58,186] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 07:56:58,187] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Cache is up to date.
+[2025-09-29 07:56:58,219] [INFO] [__main__:search_inquiries] [search_inquiries:success] Found 14 results.
+[2025-09-29 07:57:32,859] [INFO] [__main__:lifespan] Application shutdown...
+[2025-09-29 07:59:03,789] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-29 07:59:03,871] [INFO] [__main__:lifespan] Application startup...
+[2025-09-29 07:59:03,888] [INFO] [__main__:load_config] Successfully loaded config from config.json
+[2025-09-29 07:59:03,890] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-09-29 07:59:07,297] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-29 07:59:12,014] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-09-29 07:59:12,017] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-09-29 07:59:12,017] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-09-29 07:59:12,024] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-09-29 07:59:12,025] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 07:59:12,028] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-09-29 07:59:13,057] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Data loaded and cached successfully.
+[2025-09-29 07:59:32,021] [INFO] [__main__:search_inquiries] [search_inquiries:start] Searching for '欠品' in ''
+[2025-09-29 07:59:32,022] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 07:59:32,022] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Cache is up to date.
+[2025-09-29 07:59:32,071] [INFO] [__main__:search_inquiries] [search_inquiries:success] Found 100 results.
+[2025-09-29 07:59:42,754] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-29 07:59:52,614] [INFO] [__main__:search_inquiries] [search_inquiries:start] Searching for '返品' in ''
+[2025-09-29 07:59:52,614] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 07:59:52,616] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Cache is up to date.
+[2025-09-29 07:59:52,631] [INFO] [__main__:search_inquiries] [search_inquiries:success] Found 100 results.
+[2025-09-29 08:00:01,710] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-09-29 08:00:01,712] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-09-29 08:00:01,712] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-09-29 08:00:01,719] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-09-29 08:00:01,719] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 08:00:01,720] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-09-29 08:00:01,987] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Data loaded and cached successfully.
+[2025-09-29 08:00:07,799] [INFO] [__main__:search_inquiries] [search_inquiries:start] Searching for '返品' in '顧客情報画面'
+[2025-09-29 08:00:07,800] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 08:00:07,801] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Cache is up to date.
+[2025-09-29 08:00:07,813] [INFO] [__main__:search_inquiries] [search_inquiries:success] Found 24 results.
+[2025-09-29 08:00:20,062] [INFO] [__main__:search_inquiries] [search_inquiries:start] Searching for 'エラー' in '顧客情報画面'
+[2025-09-29 08:00:20,062] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 08:00:20,063] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Cache is up to date.
+[2025-09-29 08:00:20,074] [INFO] [__main__:search_inquiries] [search_inquiries:success] Found 24 results.
+[2025-09-29 08:00:44,962] [INFO] [__main__:search_inquiries] [search_inquiries:start] Searching for 'あいうえお' in '顧客情報画面'
+[2025-09-29 08:00:44,963] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 08:00:44,964] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Cache is up to date.
+[2025-09-29 08:00:44,977] [INFO] [__main__:search_inquiries] [search_inquiries:success] Found 24 results.
+[2025-09-29 08:00:59,713] [INFO] [__main__:search_inquiries] [search_inquiries:start] Searching for 'あいうえお' in '顧客情報画面'
+[2025-09-29 08:00:59,713] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 08:00:59,714] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Cache is up to date.
+[2025-09-29 08:00:59,723] [INFO] [__main__:search_inquiries] [search_inquiries:success] Found 24 results.
+[2025-09-29 08:01:05,142] [INFO] [__main__:search_inquiries] [search_inquiries:start] Searching for '返品' in '顧客情報画面'
+[2025-09-29 08:01:05,143] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-09-29 08:01:05,143] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Cache is up to date.
+[2025-09-29 08:01:05,155] [INFO] [__main__:search_inquiries] [search_inquiries:success] Found 24 results.
+[2025-09-29 08:01:26,727] [INFO] [__main__:lifespan] Application shutdown...
+[2025-09-29 08:02:30,066] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-09-29 08:02:30,156] [INFO] [__main__:lifespan] Application startup...
+[2025-09-29 08:02:30,159] [INFO] [__main__:load_config] Successfully loaded config from config.json
+[2025-09-29 08:02:30,161] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-09-29 08:02:30,307] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-09-29 08:03:48,720] [INFO] [__main__:lifespan] Application shutdown...
