@@ -113,7 +113,7 @@ def _ensure_data_is_cached():
         print("Excelの列名:", df.columns.tolist()) # デバッグ用に列名を出力
         df.fillna("", inplace=True)
 
-        print("重い処理 開始....")
+        #print("重い処理 開始....")
 
         search_columns = config.get("search_columns", [])
         if not search_columns:
