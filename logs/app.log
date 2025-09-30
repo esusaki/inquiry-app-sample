@@ -198,3 +198,46 @@
 [2025-09-29 08:02:30,161] [INFO] [__main__:lifespan] Cleaned up uploads directory.
 [2025-09-29 08:02:30,307] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
 [2025-09-29 08:03:48,720] [INFO] [__main__:lifespan] Application shutdown...
+[2025-10-01 05:37:59,300] [INFO] [__main__:<module>] Starting uvicorn server directly.
+[2025-10-01 05:38:00,182] [INFO] [__main__:lifespan] Application startup...
+[2025-10-01 05:38:00,183] [INFO] [__main__:load_config] Successfully loaded config from config.json
+[2025-10-01 05:38:00,184] [INFO] [__main__:lifespan] Cleaned up uploads directory.
+[2025-10-01 05:38:09,596] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-10-01 05:38:24,852] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-10-01 05:38:24,854] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-10-01 05:38:24,856] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-10-01 05:38:24,865] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-10-01 05:38:24,867] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-10-01 05:38:24,868] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-10-01 05:38:28,972] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Data loaded and cached successfully.
+[2025-10-01 05:38:34,946] [INFO] [__main__:search_inquiries] [search_inquiries:start] Searching for 'ï‘ïi' in 'ç›å…ä«óùâÊñ '
+[2025-10-01 05:38:34,973] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-10-01 05:38:34,974] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Cache is up to date.
+[2025-10-01 05:38:35,017] [INFO] [__main__:search_inquiries] [search_inquiries:success] Found 14 results.
+[2025-10-01 05:39:49,819] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-10-01 05:39:53,819] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-10-01 05:41:40,691] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-10-01 05:45:11,667] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-10-01 05:45:20,267] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-10-01 05:49:52,056] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-10-01 05:50:07,483] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-10-01 05:52:33,239] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-10-01 05:53:39,988] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-10-01 05:53:39,991] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-10-01 05:53:39,991] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-10-01 05:53:40,003] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-10-01 05:53:40,004] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-10-01 05:53:40,006] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-10-01 05:53:40,242] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Data loaded and cached successfully.
+[2025-10-01 05:57:36,362] [INFO] [__main__:read_root] Root endpoint accessed. Serving index.html.
+[2025-10-01 05:57:47,237] [INFO] [__main__:upload_file] [upload_file:start] Uploading file: dummy_inquiries_100.xlsx
+[2025-10-01 05:57:47,240] [INFO] [__main__:upload_file] [upload_file:success] Cache invalidated due to new file upload.
+[2025-10-01 05:57:47,241] [INFO] [__main__:upload_file] [upload_file:success] File saved at: uploads\dummy_inquiries_100.xlsx
+[2025-10-01 05:57:47,253] [INFO] [__main__:get_functional_areas] [get_functional_areas:start] Fetching functional areas.
+[2025-10-01 05:57:47,254] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-10-01 05:57:47,255] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:info] Cache is stale or empty. Loading data from uploads\dummy_inquiries_100.xlsx.
+[2025-10-01 05:57:47,481] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Data loaded and cached successfully.
+[2025-10-01 06:01:10,068] [INFO] [__main__:search_inquiries] [search_inquiries:start] Searching for 'ï‘ïi' in 'çwîÉä«óùâÊñ '
+[2025-10-01 06:01:10,069] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:start] Checking cache status.
+[2025-10-01 06:01:10,070] [INFO] [__main__:_ensure_data_is_cached] [_ensure_data_is_cached:success] Cache is up to date.
+[2025-10-01 06:01:10,130] [INFO] [__main__:search_inquiries] [search_inquiries:success] Found 21 results.

@@ -13,24 +13,27 @@
     <div class="container">
         <h2>1. データファイルのアップロード</h2>
         <form id="upload-form" enctype="multipart/form-data">
-            <input type="file" id="file-input" name="file" accept=".xlsx, .xls" required>
-            <button type="submit">アップロード</button>
+            <div class="form-row">
+                <input type="file" id="file-input" name="file" accept=".xlsx, .xls" required>
+                <button type="submit">アップロード</button>
+            </div>
         </form>
         <p id="upload-status"></p>
 
         <h2>2. 検索条件の入力</h2>
         <form id="search-form">
-            <div class="form-group">
-                <label for="keywords">検索キーワード (複数可、スペース区切り):</label>
-                <textarea id="keywords" name="keywords" rows="3"></textarea>
-            </div>
-
-            <div class="form-group">
-                <label for="functional-area">機能名:</label>
-                <select id="functional-area" name="functional_area">
-                    <option value="">すべて</option>
-                    <!-- 機能名は動的に読み込む -->
-                </select>
+            <div class="form-row">
+                <div class="form-group form-group-grow">
+                    <label for="keywords">検索キーワード (複数可、スペース区切り):</label>
+                    <input type="text" id="keywords" name="keywords">
+                </div>
+                <div class="form-group form-group-fixed">
+                    <label for="functional-area">機能名:</label>
+                    <select id="functional-area" name="functional_area">
+                        <option value="">すべて</option>
+                        <!-- 機能名は動的に読み込む -->
+                    </select>
+                </div>
             </div>
             
             <button type="submit">検索</button>
